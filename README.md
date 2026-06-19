@@ -2,7 +2,7 @@
 
 I'm a developer who likes turning useful ideas into working software, especially around public data, local information, AI-assisted tools, and small experiments that teach me something.
 
-I have a strong interest in AI-assisted development, particularly GitHub Copilot, Codex, and agentic coding workflows. One of my main experiments here is Ralph loops: an original workflow/design for using AI coding agents in repeated plan-build-review-improve cycles, with the human staying close enough to steer taste, intent, and quality.
+I have a strong interest in AI-assisted development, particularly GitHub Copilot, Codex, and agentic coding workflows. One of my main experiments here is applying and adapting [Geoffrey Huntley's Ralph Wiggum / Ralph Loop approach](https://ghuntley.com/ralph/): repeated AI coding loops where the human stays close enough to steer taste, intent, and quality.
 
 Much of my work is in TypeScript, Python, .NET, C#, Angular, and Azure. A recurring theme in my repositories is making real-world data easier to discover, check, and use, from UK Parliament data and local transport/events to smart-home dashboards and team tools.
 
@@ -25,8 +25,8 @@ I also keep a healthy trail of learning projects: prompt collections, command-li
 - [cm123go](https://github.com/ChrisBrooksbank/cm123go) - real-time Chelmsford bus departures with nearest stops, live arrivals, and offline PWA support.
 - [home-monitor](https://github.com/ChrisBrooksbank/home-monitor) - a real-time smart-home monitoring and control dashboard.
 - [planningpoker](https://github.com/ChrisBrooksbank/planningpoker) - a WebSocket-powered planning poker app for agile teams.
-- [cb-ralph-wiggum](https://github.com/ChrisBrooksbank/cb-ralph-wiggum) - Claude Code slash commands for Ralph loops, my original AI-assisted development workflow/design.
+- [cb-ralph-wiggum](https://github.com/ChrisBrooksbank/cb-ralph-wiggum) - Claude Code slash commands for my use of Geoffrey Huntley's Ralph Loop approach.
 
 ## How I Tend To Work
 
-I like clear code, useful documentation, small feedback loops, and tools that make the next step easier for the person using them. I am especially interested in how AI tools can help developers move faster without losing judgment: using Copilot and Codex as collaborators, then tightening the result through Ralph loops and review. My repos are a mix of production-adjacent systems, learning notes, and experiments, because I find the best way to understand something is usually to build a small version of it.
+I like clear code, useful documentation, small feedback loops, and tools that make the next step easier for the person using them. I am especially interested in how AI tools can help developers move faster without losing judgment: using Copilot and Codex as collaborators, then tightening the result through Ralph loops, review, and backpressure. My repos are a mix of production-adjacent systems, learning notes, and experiments, because I find the best way to understand something is usually to build a small version of it.
