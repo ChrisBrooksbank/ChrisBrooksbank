@@ -1,28 +1,28 @@
 # Hi, I'm Chris Brooksbank
 
-I'm a developer who likes turning useful ideas into working software, especially around public data, thoughtful tools, and small experiments that teach me something.
+I'm a developer who likes turning useful ideas into working software, especially around public data, local information, AI-assisted tools, and small experiments that teach me something.
 
-Much of my work is in .NET, C#, TypeScript, Angular, and Azure. A recurring theme in my repositories is making UK Parliament data easier to discover, check, and explore, from endpoint catalogues and admin tools to scheduled health checks and AI-assisted interfaces.
+Much of my work is in TypeScript, Python, .NET, C#, Angular, and Azure. A recurring theme in my repositories is making real-world data easier to discover, check, and use, from UK Parliament data and local transport/events to smart-home dashboards and team tools.
 
-I also keep a healthy trail of learning projects: JavaScript and Angular notes, Philips Hue experiments, board-game engines and bots, prompt collections, small games, visual tools, and whatever else is currently pulling at my curiosity.
+I also keep a healthy trail of learning projects: prompt collections, command-line tools, games, visual tools, board-game bots, and whatever else is currently pulling at my curiosity.
 
 ## Current Interests
 
-- Public data and API discovery
-- .NET and Azure applications
-- Angular and TypeScript frontends
-- AI-assisted tools and prompt design
-- Board-game logic, bots, and simulations
+- Public data, APIs, and Model Context Protocol tools
+- Local civic apps for events, transport, and everyday information
+- TypeScript frontends, PWAs, and real-time interfaces
+- Python and .NET services
+- AI-assisted developer workflows and prompt design
 - Learning in public through small, finished experiments
 
-## A Few Repositories
+## Pinned Work
 
-- [UKParliamentEndpoints](https://github.com/ChrisBrooksbank/UKParliamentEndpoints) - a .NET API for cataloguing public UK Parliament API endpoints.
-- [UKParliamentEndPointsAdmin](https://github.com/ChrisBrooksbank/UKParliamentEndPointsAdmin) - a Blazor admin UI for the endpoint catalogue.
-- [UKParlyEndPointsFuncApp](https://github.com/ChrisBrooksbank/UKParlyEndPointsFuncApp) - Azure Functions for scheduled endpoint checks.
-- [autoCardboard](https://github.com/ChrisBrooksbank/autoCardboard) - board-game bot infrastructure and game-running tools.
-- [autoHanamikoji](https://github.com/ChrisBrooksbank/autoHanamikoji) - an Angular implementation of Hanamikoji played by bots.
-- [DigiStandards](https://github.com/ChrisBrooksbank/DigiStandards) - practical development standards and notes.
+- [uk-parliament-mcp-lab](https://github.com/ChrisBrooksbank/uk-parliament-mcp-lab) - a Python MCP server and CLI connecting AI assistants to live UK Parliament data.
+- [cmout](https://github.com/ChrisBrooksbank/cmout) - a Chelmsford events PWA aggregating local listings from multiple sources.
+- [cm123go](https://github.com/ChrisBrooksbank/cm123go) - real-time Chelmsford bus departures with nearest stops, live arrivals, and offline PWA support.
+- [home-monitor](https://github.com/ChrisBrooksbank/home-monitor) - a real-time smart-home monitoring and control dashboard.
+- [planningpoker](https://github.com/ChrisBrooksbank/planningpoker) - a WebSocket-powered planning poker app for agile teams.
+- [cb-ralph-wiggum](https://github.com/ChrisBrooksbank/cb-ralph-wiggum) - Claude Code slash commands for an autonomous AI development workflow.
 
 ## How I Tend To Work
 
