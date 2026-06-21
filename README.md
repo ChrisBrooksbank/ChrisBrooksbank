@@ -20,7 +20,7 @@ I also keep a healthy trail of learning projects: prompt collections, command-li
 
 ## Pinned Work
 
-- [uk-parliament-mcp-lab](https://github.com/ChrisBrooksbank/uk-parliament-mcp-lab) - a Python MCP server and CLI connecting AI assistants to live UK Parliament data.
+- [uk-parliament-data-mcp](https://github.com/ChrisBrooksbank/uk-parliament-data-mcp) - an unofficial Python MCP server and CLI connecting AI assistants to publicly available UK Parliament data.
 - [cmout](https://github.com/ChrisBrooksbank/cmout) - a Chelmsford events PWA aggregating local listings from multiple sources.
 - [cm123go](https://github.com/ChrisBrooksbank/cm123go) - real-time Chelmsford bus departures with nearest stops, live arrivals, and offline PWA support.
 - [home-monitor](https://github.com/ChrisBrooksbank/home-monitor) - a real-time smart-home monitoring and control dashboard.
